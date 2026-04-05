@@ -1,0 +1,10 @@
+{
+  "minHostVersion": "0.0.1",
+  "coreVersion": "0.0.2",
+  "viewsVersion": "0.0.2",
+  "bundle": {
+    "url": "https://github.com/helojo/egret-launcher-releases/releases/download/hotpatch-v0.0.2/hotpatch.tar.gz",
+    "sha256": "522c7c7c7c546e72f8f6bc9c3fd158f3de6519db5b1ff2d2afe6a63eddc52d24"
+  },
+  "signature": "jfRqO4mJT5765aC8mbcEt1UbHQp1QJaUFsxUDBhn1VUpMHVV6K5Ng4rDvX9b6BKf3a8ns2RyDUj2ZgAjZoVkBg=="
+}
